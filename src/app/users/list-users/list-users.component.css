@@ -1,0 +1,17 @@
+.username {
+  min-width: 300px;
+}
+
+.action-link {
+  padding: 10px;
+}
+
+.list-user {
+  margin: 10px;
+  background-color: cadetblue;
+}
+
+table {
+  width: 100%;
+}
+/*# sourceMappingURL=list-users.component.css.map */
